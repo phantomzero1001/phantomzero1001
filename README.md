@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since: 2019 🐛 ...<br>📚 I’m currently learning: Data Science, Python, Machine Learning & AI<br>🎯 Goals: Build real-world AI/ML solutions and grow as a data scientist<br>🎲 Fun fact:🎲 Fun fact: I fix bugs by talking to my code 😄</p>
+<p align="left">✨ Creating bugs since: 2019 🐛 ...<br>📚 I’m currently learning: Data Science, Python, Machine Learning & AI<br>🎯 Goals: Build real-world AI/ML solutions and grow as a data scientist<br>🎲 Fun fact: I fix bugs by talking to my code 😄</p>
 
 ###
 
