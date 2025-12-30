@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi, I’m Shridhar, a Data Science enthusiast eager to explore new skills and apply AI/ML techniques to solve real-world challenges., from ....</p>
+<p align="left">Hi, I’m Shridhar, a Data Science enthusiast eager to explore new skills and apply AI/ML techniques to solve real-world challenges.</p>
 
 ###
 
